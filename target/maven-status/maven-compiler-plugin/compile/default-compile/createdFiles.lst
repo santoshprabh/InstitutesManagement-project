@@ -1,0 +1,6 @@
+com\Institutes\institutesmanagement\InstitutesmanagementApplication.class
+com\Institutes\institutesmanagement\Controller\InstituteController.class
+com\Institutes\institutesmanagement\Repository\InstituteRepository.class
+com\Institutes\institutesmanagement\Service\InstituteService.class
+com\Institutes\institutesmanagement\Service\InstituteServiceImplementation.class
+com\Institutes\institutesmanagement\Entity\Institute.class
